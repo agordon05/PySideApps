@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PysideIntro2.iml" filepath="$PROJECT_DIR$/.idea/PysideIntro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ButtonCounter/.idea/ButtonCounter.iml" filepath="$PROJECT_DIR$/../ButtonCounter/.idea/ButtonCounter.iml" />
     </modules>
   </component>
 </project>

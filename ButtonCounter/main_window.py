@@ -15,8 +15,10 @@ def run_ui():
     app = QtWidgets.QApplication([])
 
     window = Main_Window()
-    window.resize(200, 150)
-    window.setWindowTitle("Intro 2")
+    # window.resize(240, 150)
+    window.setFixedSize(240, 150)
+    window.setWindowTitle("Button Counter")
+
 
     window.show()
     sys.exit(app.exec())
