@@ -19,6 +19,5 @@ def run_ui():
     window.setFixedSize(240, 150)
     window.setWindowTitle("Button Counter")
 
-
     window.show()
     sys.exit(app.exec())
